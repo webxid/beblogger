@@ -16,7 +16,7 @@
     },
     "require": {
         "php": "^7.4|^8.0",
-        "symfony/var-dumper": "^5.1.4",
+        "symfony/var-dumper": "^5|v6",
         "laravel/framework": "^7|^8|^9"
     }
 }
