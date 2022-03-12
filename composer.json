@@ -1,0 +1,22 @@
+{
+    "name": "webxid/beblogger",
+    "version": "1.0.0",
+    "description": "The lib with models to create a blog",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Pavlo M.",
+            "email": "webxid@ukr.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "WebXID\\BeBlogger\\": "src"
+        }
+    },
+    "require": {
+        "php": "^7.4|^8.0",
+        "symfony/var-dumper": "^5.1.4",
+        "laravel/framework": "^7|^8|^9"
+    }
+}
